@@ -1,4 +1,4 @@
-# Div Allignment
+# Div Alignment
 It's on every website but stupidly fucking hard to remember
 
 #Div Alignment
